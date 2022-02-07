@@ -1,10 +1,10 @@
 {
-  "name": "エンジニア太郎",
-  "belong-to": "株式会社エンジニア",
+  "name": "関根大和",
+  "belong-to": "ティースリー株式会社",
   "title": "プログラマー",
   "avatar": "./img/avator-male.png",
   "style": {
-    "desktop": "Mac",
+    "desktop": "Windows",
     "mobile": "Android"
   },
   "point-skill": [
